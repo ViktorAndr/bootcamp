@@ -1,0 +1,42 @@
+/*
+* Style css admin
+*/
+.vc_admin_label {
+    display: block;
+}
+.vc_general.icon-element-header {
+    background-image: url(images/vc_images/header.png);
+}
+.vc_general.icon-element {
+    background-image: url(images/vc_images/tz.png);
+}
+.vc_general.icon-counter {
+    background-image: url(images/vc_images/counter.png);
+}
+.vc_general.icon-speakers-slider {
+    background-image: url("images/vc_images/slider-speakers.png");
+}
+.vc_general.icon-title {
+    background-image: url("images/vc_images/tz_title.png");
+}
+.vc_general.tz-icon-video {
+    background-image: url("images/vc_images/video-player.png");
+}
+.vc_general.icon-features-event {
+    background-image: url("images/vc_images/features_calendar.png");
+}
+.vc_general.icon-slide-event {
+    background-image: url("images/vc_images/slide_event_calendar.png");
+}
+.vc_general.icon-testimonials {
+    background-image: url("images/vc_images/icon-testimonials.png");
+}
+.vc_general.icon-single-feature-event {
+    background-image: url("images/vc_images/single-features_calendar.png");
+}
+.vc_general.icon-slide-multi-countdown {
+    background-image: url("images/vc_images/slide-multi-countdown.png");
+}
+.vc_general.icon-slide-multi-countdown-item {
+    background-image: url("images/vc_images/slide-multi-countdown-item.png");
+}

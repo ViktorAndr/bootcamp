@@ -1,0 +1,180 @@
+2019-04-01T07:44:34+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/u644481109/domains/my-test.online/public_html/wp-content/themes/maniva-meetup/extension/woocommerce/functions.php:35
+Stack trace:
+#0 /home/u644481109/domains/my-test.online/public_html/wp-includes/class-wp-hook.php(286): maniva_meetup_get_cart('')
+#1 /home/u644481109/domains/my-test.online/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/u644481109/domains/my-test.online/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home/u644481109/domains/my-test.online/public_html/wp-content/plugins/tz-plazart-meetup/admin/vc-extension/visual-composer/vc_theme/header/tz-header.php(594): do_action('maniva_meetup_g...')
+#4 /home/u644481109/domains/my-test.online/public_html/wp-includes/shortcodes.php(325): tzmaniva_header(Array, '', 'tz-header')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home/u644481109/domains/my-test.online/public_html/wp-includes/shortcodes.php(199 в /home/u644481109/domains/my-test.online/public_html/wp-content/themes/maniva-meetup/extension/woocommerce/functions.php на строке 35
+
+2019-04-01T08:05:53+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/u644481109/domains/my-test.online/public_html/wp-content/themes/maniva-meetup/extension/woocommerce/functions.php:35
+Stack trace:
+#0 /home/u644481109/domains/my-test.online/public_html/wp-includes/class-wp-hook.php(286): maniva_meetup_get_cart('')
+#1 /home/u644481109/domains/my-test.online/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/u644481109/domains/my-test.online/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home/u644481109/domains/my-test.online/public_html/wp-content/plugins/tz-plazart-meetup/admin/vc-extension/visual-composer/vc_theme/header/tz-header.php(594): do_action('maniva_meetup_g...')
+#4 /home/u644481109/domains/my-test.online/public_html/wp-includes/shortcodes.php(325): tzmaniva_header(Array, '', 'tz-header')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home/u644481109/domains/my-test.online/public_html/wp-includes/shortcodes.php(199 в /home/u644481109/domains/my-test.online/public_html/wp-content/themes/maniva-meetup/extension/woocommerce/functions.php на строке 35
+
+2019-04-01T08:10:13+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/u644481109/domains/my-test.online/public_html/wp-content/themes/maniva-meetup/extension/woocommerce/functions.php:35
+Stack trace:
+#0 /home/u644481109/domains/my-test.online/public_html/wp-includes/class-wp-hook.php(286): maniva_meetup_get_cart('')
+#1 /home/u644481109/domains/my-test.online/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/u644481109/domains/my-test.online/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home/u644481109/domains/my-test.online/public_html/wp-content/plugins/tz-plazart-meetup/admin/vc-extension/visual-composer/vc_theme/header/tz-header.php(594): do_action('maniva_meetup_g...')
+#4 /home/u644481109/domains/my-test.online/public_html/wp-includes/shortcodes.php(325): tzmaniva_header(Array, '', 'tz-header')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home/u644481109/domains/my-test.online/public_html/wp-includes/shortcodes.php(199 в /home/u644481109/domains/my-test.online/public_html/wp-content/themes/maniva-meetup/extension/woocommerce/functions.php на строке 35
+
+2019-04-01T08:10:25+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/u644481109/domains/my-test.online/public_html/wp-content/themes/maniva-meetup/extension/woocommerce/functions.php:35
+Stack trace:
+#0 /home/u644481109/domains/my-test.online/public_html/wp-includes/class-wp-hook.php(286): maniva_meetup_get_cart('')
+#1 /home/u644481109/domains/my-test.online/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/u644481109/domains/my-test.online/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home/u644481109/domains/my-test.online/public_html/wp-content/plugins/tz-plazart-meetup/admin/vc-extension/visual-composer/vc_theme/header/tz-header.php(594): do_action('maniva_meetup_g...')
+#4 /home/u644481109/domains/my-test.online/public_html/wp-includes/shortcodes.php(325): tzmaniva_header(Array, '', 'tz-header')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home/u644481109/domains/my-test.online/public_html/wp-includes/shortcodes.php(199 в /home/u644481109/domains/my-test.online/public_html/wp-content/themes/maniva-meetup/extension/woocommerce/functions.php на строке 35
+
+2019-04-01T08:17:48+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/u644481109/domains/my-test.online/public_html/wp-content/themes/maniva-meetup/extension/woocommerce/functions.php:35
+Stack trace:
+#0 /home/u644481109/domains/my-test.online/public_html/wp-includes/class-wp-hook.php(286): maniva_meetup_get_cart('')
+#1 /home/u644481109/domains/my-test.online/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/u644481109/domains/my-test.online/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home/u644481109/domains/my-test.online/public_html/wp-content/plugins/tz-plazart-meetup/admin/vc-extension/visual-composer/vc_theme/header/tz-header.php(594): do_action('maniva_meetup_g...')
+#4 /home/u644481109/domains/my-test.online/public_html/wp-includes/shortcodes.php(325): tzmaniva_header(Array, '', 'tz-header')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home/u644481109/domains/my-test.online/public_html/wp-includes/shortcodes.php(199 в /home/u644481109/domains/my-test.online/public_html/wp-content/themes/maniva-meetup/extension/woocommerce/functions.php на строке 35
+
+2019-04-01T08:19:50+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/u644481109/domains/my-test.online/public_html/wp-content/themes/maniva-meetup/extension/woocommerce/functions.php:35
+Stack trace:
+#0 /home/u644481109/domains/my-test.online/public_html/wp-includes/class-wp-hook.php(286): maniva_meetup_get_cart('')
+#1 /home/u644481109/domains/my-test.online/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/u644481109/domains/my-test.online/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home/u644481109/domains/my-test.online/public_html/wp-content/plugins/tz-plazart-meetup/admin/vc-extension/visual-composer/vc_theme/header/tz-header.php(463): do_action('maniva_meetup_g...')
+#4 /home/u644481109/domains/my-test.online/public_html/wp-includes/shortcodes.php(325): tzmaniva_header(Array, '', 'tz-header')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home/u644481109/domains/my-test.online/public_html/wp-includes/shortcodes.php(199 в /home/u644481109/domains/my-test.online/public_html/wp-content/themes/maniva-meetup/extension/woocommerce/functions.php на строке 35
+
+2019-04-01T08:23:38+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/u644481109/domains/my-test.online/public_html/wp-content/themes/maniva-meetup/extension/woocommerce/functions.php:35
+Stack trace:
+#0 /home/u644481109/domains/my-test.online/public_html/wp-includes/class-wp-hook.php(286): maniva_meetup_get_cart('')
+#1 /home/u644481109/domains/my-test.online/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/u644481109/domains/my-test.online/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home/u644481109/domains/my-test.online/public_html/wp-content/plugins/tz-plazart-meetup/admin/vc-extension/visual-composer/vc_theme/header/tz-header.php(594): do_action('maniva_meetup_g...')
+#4 /home/u644481109/domains/my-test.online/public_html/wp-includes/shortcodes.php(325): tzmaniva_header(Array, '', 'tz-header')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home/u644481109/domains/my-test.online/public_html/wp-includes/shortcodes.php(199 в /home/u644481109/domains/my-test.online/public_html/wp-content/themes/maniva-meetup/extension/woocommerce/functions.php на строке 35
+
+2019-04-01T10:19:06+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/u644481109/domains/my-test.online/public_html/wp-content/themes/maniva-meetup/extension/woocommerce/functions.php:35
+Stack trace:
+#0 /home/u644481109/domains/my-test.online/public_html/wp-includes/class-wp-hook.php(286): maniva_meetup_get_cart('')
+#1 /home/u644481109/domains/my-test.online/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/u644481109/domains/my-test.online/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home/u644481109/domains/my-test.online/public_html/wp-content/plugins/tz-plazart-meetup/admin/vc-extension/visual-composer/vc_theme/header/tz-header.php(594): do_action('maniva_meetup_g...')
+#4 /home/u644481109/domains/my-test.online/public_html/wp-includes/shortcodes.php(325): tzmaniva_header(Array, '', 'tz-header')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home/u644481109/domains/my-test.online/public_html/wp-includes/shortcodes.php(199 in /home/u644481109/domains/my-test.online/public_html/wp-content/themes/maniva-meetup/extension/woocommerce/functions.php on line 35
+
+2019-04-01T10:42:27+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/u644481109/domains/my-test.online/public_html/wp-content/themes/maniva-meetup/extension/woocommerce/functions.php:35
+Stack trace:
+#0 /home/u644481109/domains/my-test.online/public_html/wp-includes/class-wp-hook.php(286): maniva_meetup_get_cart('')
+#1 /home/u644481109/domains/my-test.online/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/u644481109/domains/my-test.online/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home/u644481109/domains/my-test.online/public_html/wp-content/plugins/tz-plazart-meetup/admin/vc-extension/visual-composer/vc_theme/header/tz-header.php(594): do_action('maniva_meetup_g...')
+#4 /home/u644481109/domains/my-test.online/public_html/wp-includes/shortcodes.php(325): tzmaniva_header(Array, '', 'tz-header')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home/u644481109/domains/my-test.online/public_html/wp-includes/shortcodes.php(199 in /home/u644481109/domains/my-test.online/public_html/wp-content/themes/maniva-meetup/extension/woocommerce/functions.php on line 35
+
+2019-04-01T10:42:59+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/u644481109/domains/my-test.online/public_html/wp-content/themes/maniva-meetup/extension/woocommerce/functions.php:35
+Stack trace:
+#0 /home/u644481109/domains/my-test.online/public_html/wp-includes/class-wp-hook.php(286): maniva_meetup_get_cart('')
+#1 /home/u644481109/domains/my-test.online/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/u644481109/domains/my-test.online/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home/u644481109/domains/my-test.online/public_html/wp-content/plugins/tz-plazart-meetup/admin/vc-extension/visual-composer/vc_theme/header/tz-header.php(594): do_action('maniva_meetup_g...')
+#4 /home/u644481109/domains/my-test.online/public_html/wp-includes/shortcodes.php(325): tzmaniva_header(Array, '', 'tz-header')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home/u644481109/domains/my-test.online/public_html/wp-includes/shortcodes.php(199 in /home/u644481109/domains/my-test.online/public_html/wp-content/themes/maniva-meetup/extension/woocommerce/functions.php on line 35
+
+2019-04-01T17:24:07+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/u644481109/domains/my-test.online/public_html/wp-content/themes/maniva-meetup/extension/woocommerce/functions.php:35
+Stack trace:
+#0 /home/u644481109/domains/my-test.online/public_html/wp-includes/class-wp-hook.php(286): maniva_meetup_get_cart('')
+#1 /home/u644481109/domains/my-test.online/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/u644481109/domains/my-test.online/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home/u644481109/domains/my-test.online/public_html/wp-content/plugins/tz-plazart-meetup/admin/vc-extension/visual-composer/vc_theme/header/tz-header.php(594): do_action('maniva_meetup_g...')
+#4 /home/u644481109/domains/my-test.online/public_html/wp-includes/shortcodes.php(325): tzmaniva_header(Array, '', 'tz-header')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home/u644481109/domains/my-test.online/public_html/wp-includes/shortcodes.php(199 in /home/u644481109/domains/my-test.online/public_html/wp-content/themes/maniva-meetup/extension/woocommerce/functions.php on line 35
+
+2019-04-01T17:40:29+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/u644481109/domains/my-test.online/public_html/wp-content/themes/maniva-meetup/extension/woocommerce/functions.php:35
+Stack trace:
+#0 /home/u644481109/domains/my-test.online/public_html/wp-includes/class-wp-hook.php(286): maniva_meetup_get_cart('')
+#1 /home/u644481109/domains/my-test.online/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/u644481109/domains/my-test.online/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home/u644481109/domains/my-test.online/public_html/wp-content/plugins/tz-plazart-meetup/admin/vc-extension/visual-composer/vc_theme/header/tz-header.php(594): do_action('maniva_meetup_g...')
+#4 /home/u644481109/domains/my-test.online/public_html/wp-includes/shortcodes.php(325): tzmaniva_header(Array, '', 'tz-header')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home/u644481109/domains/my-test.online/public_html/wp-includes/shortcodes.php(199 in /home/u644481109/domains/my-test.online/public_html/wp-content/themes/maniva-meetup/extension/woocommerce/functions.php on line 35
+
+2019-04-01T17:48:23+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/u644481109/domains/my-test.online/public_html/wp-content/themes/maniva-meetup/extension/woocommerce/functions.php:35
+Stack trace:
+#0 /home/u644481109/domains/my-test.online/public_html/wp-includes/class-wp-hook.php(286): maniva_meetup_get_cart('')
+#1 /home/u644481109/domains/my-test.online/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/u644481109/domains/my-test.online/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home/u644481109/domains/my-test.online/public_html/wp-content/plugins/tz-plazart-meetup/admin/vc-extension/visual-composer/vc_theme/header/tz-header.php(594): do_action('maniva_meetup_g...')
+#4 /home/u644481109/domains/my-test.online/public_html/wp-includes/shortcodes.php(325): tzmaniva_header(Array, '', 'tz-header')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home/u644481109/domains/my-test.online/public_html/wp-includes/shortcodes.php(199 in /home/u644481109/domains/my-test.online/public_html/wp-content/themes/maniva-meetup/extension/woocommerce/functions.php on line 35
+
+2019-04-01T18:54:24+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/u644481109/domains/my-test.online/public_html/wp-content/themes/maniva-meetup/extension/woocommerce/functions.php:35
+Stack trace:
+#0 /home/u644481109/domains/my-test.online/public_html/wp-includes/class-wp-hook.php(286): maniva_meetup_get_cart('')
+#1 /home/u644481109/domains/my-test.online/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/u644481109/domains/my-test.online/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home/u644481109/domains/my-test.online/public_html/wp-content/plugins/tz-plazart-meetup/admin/vc-extension/visual-composer/vc_theme/header/tz-header.php(594): do_action('maniva_meetup_g...')
+#4 /home/u644481109/domains/my-test.online/public_html/wp-includes/shortcodes.php(325): tzmaniva_header(Array, '', 'tz-header')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home/u644481109/domains/my-test.online/public_html/wp-includes/shortcodes.php(199 in /home/u644481109/domains/my-test.online/public_html/wp-content/themes/maniva-meetup/extension/woocommerce/functions.php on line 35
+
+2019-04-01T18:57:26+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/u644481109/domains/my-test.online/public_html/wp-content/themes/maniva-meetup/extension/woocommerce/functions.php:35
+Stack trace:
+#0 /home/u644481109/domains/my-test.online/public_html/wp-includes/class-wp-hook.php(286): maniva_meetup_get_cart('')
+#1 /home/u644481109/domains/my-test.online/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/u644481109/domains/my-test.online/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home/u644481109/domains/my-test.online/public_html/wp-content/plugins/tz-plazart-meetup/admin/vc-extension/visual-composer/vc_theme/header/tz-header.php(594): do_action('maniva_meetup_g...')
+#4 /home/u644481109/domains/my-test.online/public_html/wp-includes/shortcodes.php(325): tzmaniva_header(Array, '', 'tz-header')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home/u644481109/domains/my-test.online/public_html/wp-includes/shortcodes.php(199 in /home/u644481109/domains/my-test.online/public_html/wp-content/themes/maniva-meetup/extension/woocommerce/functions.php on line 35
+
+2019-04-01T19:02:12+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/u644481109/domains/my-test.online/public_html/wp-content/themes/maniva-meetup/extension/woocommerce/functions.php:35
+Stack trace:
+#0 /home/u644481109/domains/my-test.online/public_html/wp-includes/class-wp-hook.php(286): maniva_meetup_get_cart('')
+#1 /home/u644481109/domains/my-test.online/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/u644481109/domains/my-test.online/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home/u644481109/domains/my-test.online/public_html/wp-content/plugins/tz-plazart-meetup/admin/vc-extension/visual-composer/vc_theme/header/tz-header.php(594): do_action('maniva_meetup_g...')
+#4 /home/u644481109/domains/my-test.online/public_html/wp-includes/shortcodes.php(325): tzmaniva_header(Array, '', 'tz-header')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home/u644481109/domains/my-test.online/public_html/wp-includes/shortcodes.php(199 in /home/u644481109/domains/my-test.online/public_html/wp-content/themes/maniva-meetup/extension/woocommerce/functions.php on line 35
+
+2019-04-01T20:44:32+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/u644481109/domains/my-test.online/public_html/wp-content/themes/maniva-meetup/extension/woocommerce/functions.php:35
+Stack trace:
+#0 /home/u644481109/domains/my-test.online/public_html/wp-includes/class-wp-hook.php(286): maniva_meetup_get_cart('')
+#1 /home/u644481109/domains/my-test.online/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/u644481109/domains/my-test.online/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home/u644481109/domains/my-test.online/public_html/wp-content/plugins/tz-plazart-meetup/admin/vc-extension/visual-composer/vc_theme/header/tz-header.php(594): do_action('maniva_meetup_g...')
+#4 /home/u644481109/domains/my-test.online/public_html/wp-includes/shortcodes.php(325): tzmaniva_header(Array, '', 'tz-header')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home/u644481109/domains/my-test.online/public_html/wp-includes/shortcodes.php(199 in /home/u644481109/domains/my-test.online/public_html/wp-content/themes/maniva-meetup/extension/woocommerce/functions.php on line 35
+
+2019-04-01T20:45:18+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/u644481109/domains/my-test.online/public_html/wp-content/themes/maniva-meetup/extension/woocommerce/functions.php:35
+Stack trace:
+#0 /home/u644481109/domains/my-test.online/public_html/wp-includes/class-wp-hook.php(286): maniva_meetup_get_cart('')
+#1 /home/u644481109/domains/my-test.online/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/u644481109/domains/my-test.online/public_html/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home/u644481109/domains/my-test.online/public_html/wp-content/plugins/tz-plazart-meetup/admin/vc-extension/visual-composer/vc_theme/header/tz-header.php(594): do_action('maniva_meetup_g...')
+#4 /home/u644481109/domains/my-test.online/public_html/wp-includes/shortcodes.php(325): tzmaniva_header(Array, '', 'tz-header')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /home/u644481109/domains/my-test.online/public_html/wp-includes/shortcodes.php(199 in /home/u644481109/domains/my-test.online/public_html/wp-content/themes/maniva-meetup/extension/woocommerce/functions.php on line 35
+

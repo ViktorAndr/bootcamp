@@ -1,0 +1,21 @@
+[01-Apr-2019 08:22:43 UTC] База данных WordPress возвратила ошибку Duplicate entry '1' for key 'PRIMARY' в ответ на запрос 
+INSERT INTO `wp_tz_plusgallery_type` (`id`, `name`, `title`, `description`) VALUES
+(1, 'flickr', 'Flickr','Flickr album'),
+(2, 'facebook', 'FaceBook','Facebook album'),
+(3, 'googleplus', 'Google Plus','Google plus album'),
+(4, 'instagram', 'Instagram','Instagram album'), выполненный activate_plugins, activate_plugin, do_action('activate_tz-plus-gallery-pro/tz_gallery.php'), WP_Hook->do_action, WP_Hook->apply_filters, tz_plusgallery_activate
+[01-Apr-2019 08:22:43 UTC] База данных WordPress возвратила ошибку Duplicate entry '1' for key 'PRIMARY' в ответ на запрос 
+
+INSERT INTO `wp_tz_plusgallery_item` ( `id` , `name` , `data_type` , `data_userid` , `album_type` ,`album_id` , `album_include` , `album_exclude` , `data_api_key` , `data_limit` , `album_limit` , `description` , `ordering` , `published` )
+VALUES
+(1, 'Facebook album 01', 'facebook', 'templazaplusgallery', 'single_album', '990501374316007', '', '', '', 50, 20, 'Album', 1, 'published'),
+(2, 'Flickr Album', 'flickr', '132840201@N02', 'single_album', '72157653231921093', '72157655489748886, 72157655138380589', '', '', 20, 30, 'Album', 2, 'published'),
+(3, 'Instagram', 'instagram', '2071051508', '', '', '', '', '', 0, 20, '', 1, 'published'),
+(4, 'Google Album', 'googleplus', '114850163104214677218', 'single_album', '6171685831739518689', '', '', '', 0, 20, '', 1, 'published'), выполненный activate_plugins, activate_plugin, do_action('activate_tz-plus-gallery-pro/tz_gallery.php'), WP_Hook->do_action, WP_Hook->apply_filters, tz_plusgallery_activate
+[01-Apr-2019 08:22:43 UTC] База данных WordPress возвратила ошибку Duplicate entry '1' for key 'PRIMARY' в ответ на запрос 
+    INSERT INTO `wp_tz_plusgallery_options` (`id`, `gallery_item_id`, `options_background`, `options_color`, `options_columns`, `options_css`, `options_width`, `options_description`, `options_nav`, `options_scroll`, `options_layouts`, `options_detail_view`, `options_padding`, `options_album1`, `options_album2`, `options_album3`, `options_album4`)
+     VALUES
+(1, 1, '#38BEEA', '#38BEEA', 5, '', '', '', '', '', '', '', '15px', '', '', '', ''),
+(2, 2, '#38BEEA', '#38BEEA', 5, '', '', '', '', '', '', '', '15px', '', '', '', ''),
+(3, 3, '#38BEEA', '#38BEEA', 5, '', '', '', '', '', '', '', '15px', '', '', '', ''),
+(4, 4, '#38BEEA', '#38BEEA', 5, '', '', '', '', '', '', '', '15px', '', '', '', ''), выполненный activate_plugins, activate_plugin, do_action('activate_tz-plus-gallery-pro/tz_gallery.php'), WP_Hook->do_action, WP_Hook->apply_filters, tz_plusgallery_activate

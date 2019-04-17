@@ -1,0 +1,19 @@
+===================================
+dukan Lite Changelog
+===================================
+
+Version 1.11
+-----------------------------------
+Navigation css updated.
+
+Version 1.12
+-----------------------------
+CSS for featured image is updated
+
+Version 1.13
+-----------------------------
+CSS for featured image is updated to fixed 250px height
+
+Version 1.15
+-----------------------------
+Added wocommerce theme support for gallery
