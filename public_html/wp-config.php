@@ -20,16 +20,16 @@
 define('WP_MEMORY_LIMIT', '64M');
 // ** MySQL settings ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'u644481109_uzeha' );
+define( 'DB_NAME', 'ooi7xovxjzries60' );
 
 /** MySQL database username */
-define( 'DB_USER', 'u644481109_uhyde' );
+define( 'DB_USER', 'e3piguc0ry92psjy' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'eSuvaSupaX' );
+define( 'DB_PASSWORD', 'k0ljn2ewftltiad7' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'mysql' );
+define( 'DB_HOST', 'ctgplw90pifdso61.cbetxkdyhwsb.us-east-1.rds.amazonaws.com' );
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
